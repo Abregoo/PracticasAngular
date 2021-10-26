@@ -1,1 +1,1 @@
-#Aquí estaré documentando puntos importantes que considere importantes de tomar en cuenta.
+#Aquí estaré documentando puntos que considere importantes de tomar en cuenta.
